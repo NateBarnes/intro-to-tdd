@@ -1,5 +1,5 @@
 class Vehicle
   def go miles=1
-    60
+    miles * 60
   end
 end
